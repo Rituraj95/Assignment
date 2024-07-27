@@ -1,11 +1,11 @@
-// src/components/HeroSection.js
+
 import React from 'react';
 
 const HeroSection = () => {
   return (
     <div className="bg-gray-200 py-8 px-4 text-center">
       <img
-        src="https://via.placeholder.com/800x400" // Use a placeholder or relevant image URL
+        src="https://via.placeholder.com/800x400" 
         alt="Discover Your Inner Peace"
         className="w-full h-64 object-cover rounded-lg"
       />

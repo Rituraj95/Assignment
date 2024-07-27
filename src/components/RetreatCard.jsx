@@ -1,4 +1,4 @@
-// src/components/RetreatCard.js
+
 import React from 'react';
 
 const RetreatCard = ({ retreat }) => {
